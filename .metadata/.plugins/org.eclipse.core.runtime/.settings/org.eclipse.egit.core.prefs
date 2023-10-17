@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\Projetos\\erudio-microservices\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=D\:\\Projetos\\erudio-config-server\\.git;D\:\\Projetos\\erudio-microservices\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\Projetos\\erudio-config-server\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
